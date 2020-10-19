@@ -1,5 +1,7 @@
-# solo-project
+# Group Manager
 This was created during my time as a student at Code Chrysalis.
+
+Group Manager is a tool for organizing members of groups.
 
 # 1. Set Up
 Run npm to install dependencies.
