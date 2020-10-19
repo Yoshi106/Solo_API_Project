@@ -11,7 +11,7 @@ Please follow the steps shown below.
 Install Postgres.
 Run psql and create a database name solo_api.
 Run knex and migrate to set up the database.
-(Optioinal: Run knex to seed file)
+(Optioinal: Run knex to seed file for sample data)
 
 # 2. Start Server
 Run dev:server to start the server.
